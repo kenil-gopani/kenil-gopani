@@ -1,17 +1,23 @@
 ## Hi there 👋
 
-<!--
-**kenil-gopani/kenil-gopani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m **Kenil Gopani** — passionate about technology, coding, and continuous learning 🚀  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenil-gopani)](https://git.io/streak-stats)
+### 🔥 GitHub Stats & Activity
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=kenil-gopani&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenil-gopani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165">
+
+  <br><br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kenil-gopani&theme=dark&hide_border=false" />
+  </a>
+
+</div>
+
+
