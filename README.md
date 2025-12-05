@@ -9,9 +9,7 @@ I’m **Kenil Gopani** — passionate about technology, coding, and continuous l
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenil-gopani&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165">
 
-  <br><br>
 
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=kenil-gopani&theme=dark&hide_border=false" />
