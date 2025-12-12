@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: kenil-gopani/metrics@latest
         with:
           # Reference a secret stored in your repo/org - no raw token in the file
              token: ${{ secrets.metrics }}
