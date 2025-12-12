@@ -11,9 +11,7 @@ I’m **Kenil Gopani** — passionate about technology, coding, and continuous l
 
 
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kenil-gopani&theme=dark&hide_border=false" />
-  </a>
+ 
 
 
 
